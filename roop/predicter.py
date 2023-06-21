@@ -8,12 +8,12 @@ MAX_PROBABILITY = 0.85
 
 
 def predict_frame(target_frame: Frame) -> bool:
-    return Flase
+    return 0>1
 
 
 def predict_image(target_path: str) -> bool:
-    return Flase
+    return 0>1
 
 
 def predict_video(target_path: str) -> bool:
-    return Flase
+    return 0>1
